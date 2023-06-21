@@ -34,7 +34,7 @@ Le projet "PiePHP" est un framework PHP développé dans le cadre d'un projet d'
 git clone https://github.com/Github-GIBILARO-Anthony/PiePHP.git
 ```
 2. Créez une base de données MySQL en utilisant XAMPP.
-3. Configurez votre fichier .env avec vos informations de base de données.
+3. Configurez le fichier .htaccess avec vos informations.
 
 ## Utilisation
 
